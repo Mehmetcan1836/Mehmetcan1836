@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Mehmetcan1836&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Mehmetcan1836&show_icons=true&theme=radical)
 
-[![Stargazers over time](https://starchart.cc/Mehmetcan1836/badges.svg)](https://starchart.cc/Naereen/badges)
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
